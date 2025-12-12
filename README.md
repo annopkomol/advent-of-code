@@ -20,6 +20,7 @@ The repository is organized by year and day.
   - [Day 9](./2025/09)
   - [Day 10](./2025/10)
   - [Day 11](./2025/11)
+  - [Day 12](./2025/12)
 
 ## Running the Solutions
 
